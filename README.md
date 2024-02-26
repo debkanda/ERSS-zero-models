@@ -2,5 +2,5 @@
 
 # Data availability
 1. Simulation studies
-2. Asthma case study
-3. Twitter data example
+2. NHANES data case study
+3. Twitter data case study
