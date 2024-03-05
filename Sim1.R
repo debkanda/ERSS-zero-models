@@ -156,11 +156,3 @@ for (p in 1:4) {
 
 sim.res=list(bias_rss,bias_srs,mse_rss,mse_srs,power_rss,power_srs,cp_rss,cp_srs,effv,se_rss,se_srs)
 names(sim.res) <- c("bias_rss","bias_srs","mse_rss","mse_srs","power_rss","power_srs","cp_rss", "cp_srs", "effv", "se_rss", "se_srs")
-
-
-
-
-
-
-
-
